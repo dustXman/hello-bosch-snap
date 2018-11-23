@@ -10,7 +10,7 @@ description: |
 confinement: strict
 
 apps:
-  hello-bosch:
+  hello-r2d2:
     command: bin/hello
 
 parts:
